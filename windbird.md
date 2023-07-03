@@ -17,3 +17,5 @@
 ## 测速以及节点分析
 > 因测速时间与地点有所不同，实际体验结果会略有差异
 测速图正在准备 :)
+
+[![2023-07-03_09-12-58.jpg](https://raw.githubusercontent.com/KinnerFisch/ffqlamkpic/main/photo_2023-07-03_09-12-58.jpg)](https://raw.githubusercontent.com/KinnerFisch/ffqlamkpic/main/photo_2023-07-03_09-12-58.jpg)
